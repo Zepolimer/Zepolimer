@@ -7,6 +7,6 @@ Très attiré par l'aspect créatif et artistique du front-end, j'utilise fréqu
 
 ### Skills :ok_hand:
 
-![](https://github.com/Zepolimer/Zepolimer/images/javascript.png)
+![](/images/javascript.png)
 
 [Consulter mon portfolio](http://remilopez.com "lien vers le portfolio remilopez.com")
