@@ -5,7 +5,7 @@ Je suis développeur front-end Javascript, basé à Marseille. Je conçois et cr
 Très attiré par l'aspect créatif et artistique du front-end, j'utilise fréquemment styled-component pour styliser l'interface ainsi que GSAP pour apporter du dynamisme à mes projets.  
 
 
-> JavaScript
+> JAVASCRIPT
 
 ![](/images/javascript.png) ![](/images/react.png) ![](/images/gatsby.png) ![](/images/graphql.png) ![](/images/node.png) ![](/images/npm.png)  
 
@@ -17,7 +17,7 @@ Très attiré par l'aspect créatif et artistique du front-end, j'utilise fréqu
 
 ![](/images/php.png) ![](/images/wordpress.png) ![](/images/mysql.png)
 
-> Extra
+> EXTRA
 
 ![](/images/gsap.png) ![](/images/github.png)
 
