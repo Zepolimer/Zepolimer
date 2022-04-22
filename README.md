@@ -5,4 +5,8 @@ Je suis développeur front-end Javascript, basé à Marseille. Je conçois et cr
 Très attiré par l'aspect créatif et artistique du front-end, j'utilise fréquemment styled-component pour styliser l'interface ainsi que GSAP pour apporter du dynamisme à mes projets.  
 
 
+### Skills :ok_hand:
+
+![](https://github.com/Zepolimer/Zepolimer/images/javascript.png)
+
 [Consulter mon portfolio](http://remilopez.com "lien vers le portfolio remilopez.com")
