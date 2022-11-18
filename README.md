@@ -1,10 +1,10 @@
-## Rémi Lopez, enchanté ! 👋
+## Rémi Lopez, nice to meet you ! 👋
 
-Je suis développeur front-end Javascript, basé à Marseille. Je conçois et crée des applications web modernes, principalement via la librairie React.js et le framework Gatsby.js.  
+Web developer, based in Marseille. Very attracted by the front-end for its creative and artistic aspect (cc awwwards & GSAP), I do not ignore the back-end for all that!
 
-Très attiré par l'aspect créatif et artistique du front-end, j'utilise fréquemment styled-component pour styliser l'interface ainsi que GSAP pour apporter du dynamisme à mes projets.  
+My favourite languages are Javascript, Python and PHP, and I use React.js and Django for frameworks.
 
-## LANGAGES   
+## LANGUAGES   
 
 > JAVASCRIPT
 
