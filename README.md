@@ -8,9 +8,9 @@ My favourite languages are Javascript, Python and PHP, and I use React.js and Dj
 
 ### Front-end
 ```
-Javascript, React, Gatsby, Next
-CSS, Styled-Components
-GSAP, ScrollTrigger, DrawSVG
+> Javascript, React, Gatsby, Next
+> CSS, Styled-Components
+> GSAP, ScrollTrigger, DrawSVG
 ```
 
 <br/>
