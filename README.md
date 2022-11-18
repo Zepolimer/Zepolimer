@@ -7,19 +7,20 @@ My favourite languages are Javascript, Python and PHP, and I use React.js and Dj
 <br/>
 
 ### Front-end
-
-> Javascript, React, Gatsby, Next
-> CSS, Styled-Components
-> Animations : GSAP, ScrollTrigger, DrawSVG
+```
+Javascript, React, Gatsby, Next
+CSS, Styled-Components
+GSAP, ScrollTrigger, DrawSVG
+```
 
 <br/>
 
 ### Back-end
-
+```
 > Python, DJANGO, REST Framework
 > MySQL, PostgreSQL, Redis, RabbitMq
 > PHP, Symfony
-
+```
 <br/>
 
 [Portfolio](http://remilopez.com "Go to my personnal portfolio : remilopez.com")
