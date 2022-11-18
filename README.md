@@ -4,22 +4,22 @@ Web developer, based in Marseille. Very attracted by the front-end for its creat
 
 My favourite languages are Javascript, Python and PHP, and I use React.js and Django for frameworks.
 
-## LANGUAGES   
+<br/>
 
-> JAVASCRIPT
+### Front-end
 
-![](/images/javascript.png) ![](/images/react.png) ![](/images/gatsby.png) ![](/images/graphql.png) ![](/images/node.png) ![](/images/npm.png)  
+> Javascript, React, Gatsby, Next
+> CSS, Styled-Components
+> Animations : GSAP, ScrollTrigger, DrawSVG
 
-> CSS
+<br/>
 
-![](/images/styledcomponents.png) ![](/images/css3.png) ![](/images/sass.png)
+### Back-end
 
-> PHP
+> Python, DJANGO, REST Framework
+> MySQL, PostgreSQL, Redis, RabbitMq
+> PHP, Symfony
 
-![](/images/php.png) ![](/images/wordpress.png) ![](/images/mysql.png)
+<br/>
 
-> EXTRA
-
-![](/images/gsap.png) ![](/images/github.png)
-
-[Consulter mon portfolio](http://remilopez.com "lien vers le portfolio remilopez.com")
+[Portfolio](http://remilopez.com "Go to my personnal portfolio : remilopez.com")
