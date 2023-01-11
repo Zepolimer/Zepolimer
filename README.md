@@ -34,4 +34,6 @@ My favourite languages are Javascript, Python and PHP, and I use React.js and Dj
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zepolimer&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zepolimer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [Portfolio](http://remilopez.com "Go to my personnal portfolio : remilopez.com")
