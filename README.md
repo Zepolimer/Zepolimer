@@ -21,6 +21,7 @@ Interested in creative development, I design and develop landing pages and dynam
      GSAP, ScrollTrigger, DrawSVG
 🔵   Php, Node, Symfony
 🟣   MySQL, Sequelize
+🟢   Docker
 ```
 
 <br/>
