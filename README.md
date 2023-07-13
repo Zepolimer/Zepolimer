@@ -1,9 +1,7 @@
 ## Rémi Lopez, nice to meet you ! 👋
 
 Working in the R&D department of Digimood, an SEO-SEA-SMA agency, as a software architect : design, develop and maintain softwares for in-house staff.
-
-<br/>
-
+  
 ### Main stack
 ```
 🟠   Typescript, React, Tailwind CSS
@@ -15,9 +13,7 @@ Working in the R&D department of Digimood, an SEO-SEA-SMA agency, as a software 
 <br/>
 
 Interested in creative development, I design and develop landing pages and dynamic-manageable sites using mainly Php vanilla and GSAP ! 
-
-<br/>
-
+  
 ### Creative stack
 ```
 🟠   Javascript, React, React Native, Next,
