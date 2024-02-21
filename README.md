@@ -1,27 +1,18 @@
-## Rémi Lopez, nice to meet you ! 👋
-
-Working in the R&D department of Digimood, an SEO-SEA-SMA agency, as a software architect : design, develop and maintain softwares for in-house staff.
-  
-### Main stack
-```
-🟠   Typescript, React, Tailwind CSS
-🔵   Python, Django, Django REST Framework
-🟣   PostgreSQL, MongoDB, Redis, RabbitMq
-🟢   Docker, CI-CD, Test Driven Development, Jira
-```
+## Rémi Lopez, nice to meet you !
+#### 🔥 *I enjoy taking on new challenges and designing customized software solutions !*    
 
 <br/>
 
-Interested in creative development, I design and develop landing pages and dynamic-manageable sites using mainly Php vanilla and GSAP ! 
+#### 📍 Currently
+Software architect in the Research & Development department of Digimood.  
+I design, develop and maintain softwares for in-house staff.
   
-### Creative stack
+### 🧡 Favorite stack
 ```
-🟠   Javascript, React, React Native, Next,
-     CSS, Styled-Components,
-     GSAP, ScrollTrigger, DrawSVG
-🔵   Php, Node, Symfony
-🟣   MySQL, Sequelize
-🟢   Docker
+🟠   Typescript, React, Tailwind CSS
+🔵   Python, Django, Django REST Framework
+🟣   MySQL, PostgreSQL, MongoDB, Redis, RabbitMq
+🟢   Docker, CI-CD, Test Driven Development, Jira
 ```
 
 <br/>
