@@ -11,13 +11,14 @@ I design, develop and maintain softwares for in-house staff.
   
 #### 🧡  Favorite stack
 ```
-🟠   Typescript, React, Tailwind CSS
-🔵   Python, Django, Django REST Framework
-🟣   MySQL, PostgreSQL, MongoDB, Redis, RabbitMq
-🟢   Docker, CI-CD, Test Driven Development, Jira
+   Typescript, React, Tailwind CSS
+   Python, Django, Django REST Framework
+   MySQL, PostgreSQL, MongoDB, Redis, RabbitMq
+   Docker, CI-CD, Test Driven Development, Jira
 ```
 
 <br/>
 
+#### 👁️ More about me
 - Portfolio : [personnal and freelance projects](https://remilopez.com "Go to my personnal portfolio : remilopez.com")
 - LinkedIn : [say hi ?](https://www.linkedin.com/in/remilopez-io "Let's connect")
