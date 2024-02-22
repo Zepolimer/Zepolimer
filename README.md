@@ -1,5 +1,5 @@
 ## Rémi Lopez, nice to meet you !
-🔥  *I enjoy taking on new challenges and designing customized software solutions !*    
+> I enjoy taking on new challenges and designing customized software solutions ! 
 
 <br/>
 
@@ -21,4 +21,4 @@ I design, develop and maintain softwares for in-house staff.
 
 #### 👁️ More about me
 - Portfolio : [personnal and freelance projects](https://remilopez.com "Go to my personnal portfolio : remilopez.com")
-- LinkedIn : [say hi ?](https://www.linkedin.com/in/remilopez-io "Let's connect"){.btn .btn-default}
+- LinkedIn : [say hi ?](https://www.linkedin.com/in/remilopez-io "Let's connect")
