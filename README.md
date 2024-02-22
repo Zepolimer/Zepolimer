@@ -10,7 +10,6 @@ I design, develop and maintain softwares for in-house staff.
 <br/>
   
 #### 🧡  Favorite stack
-[Typescript](#){.btn .btn-default}
 ```
    Typescript, React, Tailwind CSS
    Python, Django, Django REST Framework
