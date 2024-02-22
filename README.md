@@ -4,8 +4,7 @@
 <br/>
 
 #### 📍 Currently
-Software architect in the Research & Development department of Digimood.  
-I design, develop and maintain softwares for in-house staff.
+> Software architect in the Research & Development department of Digimood. I design, develop and maintain softwares for in-house staff.
 
 <br/>
   
@@ -22,5 +21,3 @@ I design, develop and maintain softwares for in-house staff.
 #### 👁️ More about me
 - Portfolio : [personnal and freelance projects](https://remilopez.com "Go to my personnal portfolio : remilopez.com")
 - LinkedIn : [say hi ?](https://www.linkedin.com/in/remilopez-io "Let's connect")
-
-[fa=brands extra=fa-linkedin /]
