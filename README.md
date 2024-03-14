@@ -6,11 +6,7 @@
 
 <br/>
 
-[![Stack](https://skillicons.dev/icons?i=py,django,ts,react,tailwind,jest,nodejs,mongodb,mysql,postgres,rabbitmq,redis,docker,github,githubactions,sentry,linux,ubuntu&perline=5)](https://skillicons.dev)
-
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zepolimer&show_icons=true&theme=transparent)
+[![Stack](https://skillicons.dev/icons?i=py,django,ts,react,tailwind,jest,nodejs,mongodb,mysql,postgres,rabbitmq,redis,docker,github,githubactions,sentry,linux,ubuntu&perline=6)](https://skillicons.dev)
 
 <br/>
 
