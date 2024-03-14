@@ -5,10 +5,8 @@
 📍 &nbsp; - &nbsp; Marseille, France  
 
 <br/>
- 
-🛠️ &nbsp; - &nbsp; Python, Django (DRF), Typescript, React  
-📊 &nbsp; - &nbsp; MySQL, PostgreSQL, MongoDB, Redis, RabbitMq   
-⚙️ &nbsp; - &nbsp; Docker, CI-CD, Test Driven Development, Jira   
+
+[![Stack](https://skillicons.dev/icons?i=py,django,ts,react,tailwind,jest,nodejs,mongodb,mysql,postgres,rabbitmq,redis,docker,github,githubactions,sentry,linux,ubuntu&perline=5)](https://skillicons.dev)
 
 <br/>
 
