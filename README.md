@@ -10,5 +10,9 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zepolimer&show_icons=true&theme=transparent)
+
+<br/>
+
 👁️ &nbsp; - &nbsp; [Portfolio](https://remilopez.com "Go to my personnal portfolio : remilopez.com")  
 💬 &nbsp; - &nbsp; [LinkedIn](https://www.linkedin.com/in/remilopez-io "Let's connect")
