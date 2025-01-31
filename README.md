@@ -1,7 +1,7 @@
 > I enjoy taking on new challenges and designing customized software solutions !
 
 👋🏼 &nbsp; - &nbsp; Rémi Lopez aka @Zepolimer  
-👨🏻‍💻 &nbsp; - &nbsp; Software Architect at @dhomki-immobilier  
+👨🏻‍💻 &nbsp; - &nbsp; Software Architect at [@homki-immobilier](https://github.com/homki-immobilier)
 📍 &nbsp; - &nbsp; Marseille, France  
 
 <br/>
