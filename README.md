@@ -1,8 +1,8 @@
 > I enjoy taking on new challenges and designing customized software solutions !
 
 👋🏼 &nbsp; - &nbsp; Rémi Lopez aka @Zepolimer  
-🚀 &nbsp; - &nbsp; Building stuff on [@Relevent](https://github.com/RLevent)  
-👨🏻‍💻 &nbsp; - &nbsp; Software Architect at [@homki-immobilier](https://github.com/homki-immobilier)  
+🚀 &nbsp; - &nbsp; Building stuff on [Relevent](https://github.com/RLevent)  
+👨🏻‍💻 &nbsp; - &nbsp; Software Architect at [Homki Immobilier](https://github.com/homki-immobilier)  
 📍 &nbsp; - &nbsp; Marseille, France  
 
 <br/>
